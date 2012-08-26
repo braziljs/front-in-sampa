@@ -1,0 +1,4 @@
+
+/* For IE 6/7 (trigger hasLayout) */
+.clearfix { zoom:1; }
+
