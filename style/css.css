@@ -1,0 +1,44 @@
+
+/*--------------------------------------------------\
+|													||
+|													|||
+|   Frontinsampa                                    |||
+|													|||
+ \--------------------------------------------------\||
+  \--------------------------------------------------*/
+
+* {margin: 0;padding: 0;}
+nav, aside, header, footer, article, section, figure {display: block;}
+fieldset, a img {border: none;}
+body{
+	color:#000;
+	font-family:"Tahoma", Arial, Helvetica, sans-serif;
+	font-size: 62.5%;
+	line-height: 18px;
+	text-align: center;
+}
+a:hover{ text-decoration:none;}
+p{ margin:0 0 11px 0;}
+.clearfix:before, .clearfix:after { content:""; display:table; }
+.clearfix:after { clear:both; }
+.show { display:block; }
+.hide { display:none; }
+.fl { float:left;display:inline; }
+.fr { float:right;display:inline; }
+.cb { clear: both; }
+.inside{ margin: 0 auto;  width: 90%; font-size: 1.4em}
+ul{ list-style: none;}
+img{ max-width: 100%;}
+.box-profiles{ margin: 0 0 1em;}
+.box-profiles ul{ text-align: center;}
+.box-profiles li{ display: inline; padding: 10px;}
+h2{ font-size: 0.8em; margin: 1em 0 ;}
+header p{margin: 1em 0;}
+.tw, .fb{
+	background: url(images/redes.jpg) no-repeat 0 0;
+	display: inline-block;
+	height: 26px;
+	text-indent: -99999px; 
+	width : 32px;
+}
+.fb{ background-position: -32px 0;}
