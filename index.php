@@ -130,6 +130,16 @@
 					</ul>
 					<ul>
 						<li>
+							<h2>Fábio Ricotta</h2>
+							<p>Horário a definir</p>
+						</li>
+						<li>
+							<h2>Palestra</h2>
+							<p>SEO para Front-End</p>
+						</li>						
+					</ul>
+					<ul>
+						<li>
 							<h2>Zeno Rocha e Bernard de Luna</h2>
 							<p>16h45 - 18h</p>
 						</li>
