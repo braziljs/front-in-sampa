@@ -164,6 +164,12 @@
 							<p class="sobre">Atua em Design de interfaces e Desenvolvimento Front-end há 14 anos, já tendo trabalhado em diversos projetos no Brasil, EUA, Inglaterra e Austrália. Nos últimos 2 anos liderou o Front-end da <a href="http://www.petrobras.com.br/" target="_blank">Petrobras</a> no RJ e atualmente é <abbr title="User Experience">UX</abbr> Designer e Diretor Criativo da <a href="http://www.meltdsp.com" target="_blank" />Melt DSP</a> em São Paulo.</p>
 						</li>
 						<li class="palestrante">
+							<h2>Fábio Ricotta</h2>
+							<img class="foto" src="img/fabio-ricotta.png" alt="Foto do Palestrante Fábio Ricotta" />
+							<h3><a href="http://twitter.com/fabioricotta" target="_blank"><span class="twitter">@fabioricotta</span></a></h3>
+							<p class="sobre">Fábio Ricotta é o co-fundador do site e empresa <a href="http://www.mestreseo.com.br/" title="Mestre SEO" target="_blank">Mestre SEO</a>, nascido em 18/04/1985, é Bacharel em Ciência da Computação pela Universidade Federal de Itajubá. Hoje, a <a href="http://www.mestreseo.com.br/" title="Mestre SEO" target="_blank"> MestreSEO</a> é uma referência nacional no assunto.</p>
+						</li>
+						<li class="palestrante">
 							<h2>Compartilhe seu conhecimento no FrontinSampa</h2>
 							<a onclick="recordOutboundLink(this, 'Call4papers', 'Site'); return false;" href="http://minim.in/2fY" target="_blank"><img class="foto" src="img/call-4-papers.png" alt="Call for Papers" /></a>
 							<p class="sobre">Quer compartilhar seu conhecimento dando uma palestra no FrontinSampa? <a href="http://minim.in/2fY" target="_blank">Envie o tema</a> que gostaria de falar e quem sabe voce pode se tornar um dos palestrantes.</p>
@@ -216,7 +222,7 @@
 					<ul>
 						<li class="apoiador-1"><a title="Ir para o site do BrazilJs" href="http://braziljs.org/" target="_blank"><img src="img/selo-braziljs.png" alt="Selo BrazilJs" /></a></li>
 						<li class="apoiador-2"><a title="Ir para o site da Eventick" href="http://www.eventick.com.br" target="_blank"><img src="img/selo-eventick.png" alt="Selo Eventick" /></a></li>
-						<li class="apoiador-3"></li>
+						<li class="apoiador-3"><a title="Ir para o site do Imasters" href="http://www.imasters.com.br" target="_blank"><img src="img/selo-imasters.jpg" alt="Selo Imasters" /></a></li>
 						<li class="apoiador-4"></li>
 						<li class="apoiador-5"></li>
 						<li class="apoiador-6"></li>
