@@ -9,13 +9,13 @@
 	<meta name="keywords" content="Frontend, Front-end, Frontend em São Paulo, eventos de frontend em São Paulo" />
 	<meta name="viewport" content="initial-scale = 1.0">
 	<meta property="og:title" content="1º FrontInSampa" />
-	<meta property="og:type" content="article"/>
+	<meta property="og:type" content="website"/>
 	<meta property="og:description" content="FrontInSampa - Evento focado em Desenvolvimento Front-end em São Paulo, dia 03 novembro de 2012." />
 	<meta property="og:url" content="http://www.frontinsampa.com.br/"/>
 	<meta property="og:image" content="http://www.frontinsampa.com.br/images/logo.jpg" />
 	<meta property="og:site_name" content="FrontInSampa"/>
 	<meta property="og:locale" content="pt_br" />
-	<meta property="fb:admins" content="deividmarquess" />
+	<meta property="fb:admins" content="100000470381955" />
 	<meta property="fb:app_id" content="245886085523128"/>
 	<title>FrontInSampa | Dia 03 de novembro 2012</title>
 	<!--[if lt IE 9]>
@@ -206,7 +206,7 @@
 					<div class="bl-patrocinador bl-patrocinador-prata">
 						<h2>Prata</h2>
 						<ul>
-							<li class="patrocinador patrocinador-prata"></li>
+							<li class="patrocinador patrocinador-prata"><a title="Ir para o site da Codeminer 42" href="http://www.codeminer42.com/" target="_blank"><img src="img/selo-codeminer.jpg" alt="Selo Codeminer" /></a></li>
 							<li class="patrocinador patrocinador-prata"></li>
 							<li class="patrocinador patrocinador-prata"></li>
 							<li class="patrocinador patrocinador-prata"></li>
@@ -218,7 +218,7 @@
 						<ul>
 							<li class="patrocinador patrocinador-bronze"><a title="Ir para o site da AO5" href="http://www.ao5.com.br" target="_blank"><img src="img/selo-ao5.png" alt="Selo AO5" /></a></li>
 							<li class="patrocinador patrocinador-bronze"><a title="Ir para o site da Caelum" href="http://www.caelum.com.br" target="_blank"><img src="img/selo-caelum.png" alt="Selo Caelum" /></a></li>
-							<li class="patrocinador patrocinador-bronze"></li>
+							<li class="patrocinador patrocinador-bronze"><a title="Ir para o site da Mestre SEO" href="http://www.mestreseo.com.br" target="_blank"><img src="img/selo-mestreseo.jpg" alt="Selo MestreSEO" /></a></li>
 							<li class="patrocinador patrocinador-bronze"></li>
 							<li class="patrocinador patrocinador-bronze"></li>
 						</ul>
@@ -233,7 +233,7 @@
 						<li class="apoiador-1"><a title="Ir para o site do BrazilJs" href="http://braziljs.org/" target="_blank"><img src="img/selo-braziljs.png" alt="Selo BrazilJs" /></a></li>
 						<li class="apoiador-2"><a title="Ir para o site da Eventick" href="http://www.eventick.com.br" target="_blank"><img src="img/selo-eventick.png" alt="Selo Eventick" /></a></li>
 						<li class="apoiador-3"><a title="Ir para o site do Imasters" href="http://www.imasters.com.br" target="_blank"><img src="img/selo-imasters.jpg" alt="Selo Imasters" /></a></li>
-						<li class="apoiador-4"></li>
+						<li class="apoiador-4"><a title="Ir para o site do Tableless" href="http://www.tableless.com.br" target="_blank"><img src="img/selo-tableless.jpg" alt="Selo Tableless" /></a></li>
 						<li class="apoiador-5"></li>
 						<li class="apoiador-6"></li>
 						<li class="apoiador-7"></li>
