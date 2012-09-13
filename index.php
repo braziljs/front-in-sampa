@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-br" xml:lang="pt-br">
+<html lang="pt-br">
 <head>
 	<meta charset="utf-8">
 	<meta name="robots" content="all" />
@@ -68,12 +68,12 @@
 </head>
 <body>		
 	<div id="documento">
-		<header id="topo">
+		<header>
 			<div class="bl-conteudo">
 				<div class="bl-logo">
 					<h1 id="logo"><a href="/" title="Atualizar página"><img src="images/logo.png" alt="FrontInSampa" /></a></h1>
 				</div>
-				<nav id="navegacao-global" class="menu">
+				<nav class="menu">
 					<ul>
 						<li><a href="#evento" title="O que é FrontInSampa">O Evento</a></li>
 						<li><a onclick="recordOutboundLink(this, 'Inscricoes', 'MenuHeader'); return false;" href="http://eventick.com.br/frontinsampa" target="_blank" title="Faça sua Inscrição para o FrontInSampa">Inscrições</a></li>
@@ -283,7 +283,7 @@
 				</div>
 			</section>
 		</div>
-		<footer id="rodape">
+		<footer>
 			<div class="bl-conteudo">				
 				<nav class="navegacao-auxiliar menu">
 					<ul>
