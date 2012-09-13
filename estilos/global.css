@@ -221,15 +221,11 @@ footer address .creditos {
 
 */
 
-#conteudo {
-	padding: 0 0 25px;
-}
-
-#conteudo .bl-conteudo {
+.bl-conteudo {
 	position: relative;
 }
 
-#conteudo .bl-informacoes .detalhes {			
+.bl-informacoes .detalhes {			
 	position: absolute;
 	right: 0;
 	top: -247px;
@@ -238,13 +234,13 @@ footer address .creditos {
 	height: 197px;
 }
 
-#conteudo .bl-informacoes .detalhes a, 
+.bl-informacoes .detalhes a, 
 
-#conteudo .bl-informacoes .detalhes p {
+.bl-informacoes .detalhes p {
 	text-indent: -666em;
 }
 
-#conteudo .bl-informacoes .detalhes a {
+.bl-informacoes .detalhes a {
 	width: 100%;
 	height: 140px;
 	top: 57px;
@@ -254,25 +250,25 @@ footer address .creditos {
 	overflow: hidden;
 }
 
-#conteudo section {
+section {
 	position: relative;
 	background-color: #fff;
 }
 
-#conteudo .bl-conteudo {
+.bl-conteudo {
 	position: relative;
 }
 
-#conteudo section.secundario {
+section.secundario {
 	background-color: #000;
 }
 
-#conteudo section h1 {
+section h1 {
 	cursor: pointer;
 	padding: 30px 0 0;
 }
 
-#conteudo section#evento h1 {
+section#evento h1 {
 	background: url("img/tit-eventos.png") no-repeat scroll 0 0 transparent;
 	height: 40px;
 	width: 275px;
@@ -281,26 +277,26 @@ footer address .creditos {
 	left: -14px;
 }
 
-#conteudo section#evento h2.tt-endereco {
+section#evento h2.tt-endereco {
 	margin-top: 50px;
 }
 
-#conteudo section#evento .detalhes {
+section#evento .detalhes {
 	position: absolute;
 	right: 0;
 	top: 20px;
 	width: 630px;
 }
 
-#conteudo section#evento .bl-mapa {
+section#evento .bl-mapa {
 	margin-top: 20px;
 }
 
-#conteudo section#evento .bl-mapa iframe {
+section#evento .bl-mapa iframe {
 	margin-top: 10px;
 }
 
-#conteudo section#programacao h1 {
+section#programacao h1 {
 	position: absolute;
 	right: 0;
 	left: auto;
@@ -310,18 +306,18 @@ footer address .creditos {
 	padding-top: 40px;
 }
 
-#conteudo section#programacao ul {
+section#programacao ul {
 	padding-top: 30px;
 }
 
-#conteudo section#programacao li {
+section#programacao li {
 	display: inline-block;
 	margin-right: 17px;
 	font-size: 1em;
 	min-width: 150px;
 }
 
-#conteudo section#palestrantes {
+section#palestrantes {
 	background: url("img/bg-palestrantes.jpg") center top no-repeat transparent;
 	border-top: 10px solid #c00;
 	border-bottom: 10px solid #c00;
@@ -329,28 +325,28 @@ footer address .creditos {
 	padding-bottom: 30px;
 }
 
-#conteudo section#palestrantes h1 {
+section#palestrantes h1 {
 	background: url("img/tit-palestrantes.png") no-repeat scroll 0 0 transparent;
 	height: 40px;
 	width: 275px;
 }
 
-#conteudo section#palestrantes ul {
+section#palestrantes ul {
 	margin-top: 30px;
 }
 
-#conteudo section#palestrantes li {
+section#palestrantes li {
 	clear: both;
 	overflow: hidden;
 	margin-top: -8px;
 	font-size: 1em;
 }
 
-#conteudo section#palestrantes li:nth-child(even) {
+section#palestrantes li:nth-child(even) {
 	margin-left: 80px;
 }
 
-#conteudo section#palestrantes li h2 {
+section#palestrantes li h2 {
 	display: inline-block;
 	background-color: #fff;
 	color: #000;
@@ -362,98 +358,98 @@ footer address .creditos {
 	font-size: 1.8em;
 }
 
-#conteudo section#palestrantes li h3 {
+section#palestrantes li h3 {
 	margin-top: 10px;
 	font-size: 1.4em;
 	color: #fff;
 	font-weight: bold;
 }
 
-#conteudo section#palestrantes li img {
+section#palestrantes li img {
 	float: left;
 	margin-right: 10px;
 	position: relative;
 	z-index: 3;
 }
 
-#conteudo section#patrocinadores {
+section#patrocinadores {
 	height: 400px;
 }
 
-#conteudo section#patrocinadores h1 {
+section#patrocinadores h1 {
 	background: url("img/tit-patrocinadores.png") no-repeat scroll 0 0 transparent;
 	width: 305px;
 	padding: 30px 0 0;
 }
 
-#conteudo section#patrocinadores .bl-patrocinador {
+section#patrocinadores .bl-patrocinador {
 	position: absolute;
 }
 
-#conteudo section#patrocinadores .patrocinador {
+section#patrocinadores .patrocinador {
 	background-color: #eee;
 }
 
-#conteudo section#patrocinadores .bl-patrocinador-diamante {
+section#patrocinadores .bl-patrocinador-diamante {
 	top: 80px;
 	left: 0;
 }
 
-#conteudo section#patrocinadores .patrocinador-diamante {
+section#patrocinadores .patrocinador-diamante {
 	width: 205px;
 	height: 160px;
 }			
 
-#conteudo section#patrocinadores .bl-patrocinador-ouro {
+section#patrocinadores .bl-patrocinador-ouro {
 	top: 80px;
 	left: 360px;
 }
 
-#conteudo section#patrocinadores .patrocinador-ouro {
+section#patrocinadores .patrocinador-ouro {
 	width: 130px;
 	height: 100px;
 	display: inline-block;
 	margin-right: 10px;
 }		
 
-#conteudo section#patrocinadores .bl-patrocinador-prata {
+section#patrocinadores .bl-patrocinador-prata {
 	top: 280px;
 	left: 0;
 }
 
-#conteudo section#patrocinadores .patrocinador-prata {
+section#patrocinadores .patrocinador-prata {
 	width: 95px;
 	height: 75px;
 	display: inline-block;
 	margin-right: 2px;
 }		
 
-#conteudo section#patrocinadores .bl-patrocinador-bronze {
+section#patrocinadores .bl-patrocinador-bronze {
 	top: 250px;
 	left: 520px;
 }
 
-#conteudo section#patrocinadores .patrocinador-bronze {
+section#patrocinadores .patrocinador-bronze {
 	width: 74px;
 	height: 57px;
 	display: inline-block;
 	margin-right: -1px;
 }
 
-#conteudo section#apoiadores {
+section#apoiadores {
 	margin-top: 30px;
 }
 
-#conteudo section#apoiadores h1 {
+section#apoiadores h1 {
 	background: url("img/tit-apoiadores.png") no-repeat scroll 0 0 transparent;
 	width: 215px;
 }
 
-#conteudo section#apoiadores ul {
+section#apoiadores ul {
 	margin-top: 20px;
 }
 
-#conteudo section#apoiadores li {
+section#apoiadores li {
 	display: inline-block;
 	width: 75px;
 	height: 65px;
@@ -461,52 +457,52 @@ footer address .creditos {
 	margin: 0 5px 8px 0;
 }
 
-#conteudo section#apoiadores li img {
+section#apoiadores li img {
 	display: block;
 }
 
-#conteudo section#contato {
+section#contato {
 	margin-top: 30px;
 }
 
-#conteudo section#contato a {
+section#contato a {
 	color: #666; 
 }
 
-#conteudo section#contato .bl-campos {
+section#contato .bl-campos {
 	margin-top: 30px;
 	width: 447px;	
 }
 
-#conteudo section#contato h1, section#comentarios h1 {
+section#contato h1, section#comentarios h1 {
 	margin-bottom: 30px;
 }
 
-#conteudo section#contato h3 {
+section#contato h3 {
 	margin-bottom: 10px;
 	margin-top: 15px;
 }
 
-#conteudo section#contato .campo label {
+section#contato .campo label {
 	width: 90px;
 	margin-right: 6px;
 	display: inline-block;
 	vertical-align: top;
 }
 
-#conteudo section#contato .campo br {
+section#contato .campo br {
 	display: none;
 }
 
-#conteudo section#contato .campo input, 
+section#contato .campo input, 
 
-#conteudo section#contato .campo textarea {
+section#contato .campo textarea {
 	width: 340px;
 }
 
-#conteudo section#contato .bl-auxiliar, 
+section#contato .bl-auxiliar, 
 
-#conteudo section#contato .bl-bt {
+section#contato .bl-bt {
 	margin-top: 10px;
 	width: 50%;
 	margin-right: -4px;
@@ -514,7 +510,7 @@ footer address .creditos {
 	vertical-align: middle;
 }
 
-#conteudo section#contato .bl-bt {
+section#contato .bl-bt {
 	text-align: right;
 }
 
