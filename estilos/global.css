@@ -117,11 +117,6 @@ a:hover, a:focus, a:active {
 
 */
 
-input[type="text"], input[type="url"], input[type="email"], textarea {
-	border: 1px solid #ccc;
-	padding: 3px;
-}
-
 .bt {
 	background-color: #390;
 	color: #fff;
@@ -155,10 +150,6 @@ body {
 header {
     background: url("img/bg-header.jpg") center top no-repeat #000;
     height: 426px;
-}
-
-header .bl-conteudo {
-	position: relative;
 }
 
 header .bl-logo {
@@ -469,49 +460,8 @@ section#contato a {
 	color: #666; 
 }
 
-section#contato .bl-campos {
-	margin-top: 30px;
-	width: 447px;	
-}
-
 section#contato h1, section#comentarios h1 {
 	margin-bottom: 30px;
-}
-
-section#contato h3 {
-	margin-bottom: 10px;
-	margin-top: 15px;
-}
-
-section#contato .campo label {
-	width: 90px;
-	margin-right: 6px;
-	display: inline-block;
-	vertical-align: top;
-}
-
-section#contato .campo br {
-	display: none;
-}
-
-section#contato .campo input, 
-
-section#contato .campo textarea {
-	width: 340px;
-}
-
-section#contato .bl-auxiliar, 
-
-section#contato .bl-bt {
-	margin-top: 10px;
-	width: 50%;
-	margin-right: -4px;
-	display: inline-block;
-	vertical-align: middle;
-}
-
-section#contato .bl-bt {
-	text-align: right;
 }
 
 .box-comments { 
