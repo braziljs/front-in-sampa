@@ -66,6 +66,7 @@
 		}
 	</script>
 </head>
+
 <body>
 
 	<header>
@@ -89,11 +90,9 @@
 	</header>
 	
 	<div class="bl-informacoes">
-		<div class="bl-conteudo">
-			<div class="detalhes">
-				<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
-				<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
-			</div>
+		<div class="detalhes">
+			<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
+			<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
 		</div>
 	</div>
 	
@@ -266,11 +265,9 @@
 			<h2>Pelo Facebook:</h2>
 			<p><a href="http://facebook.com/frontinsampa" target="_blank">facebook.com/frontinsampa</a></p>						
 			<div class="bl-informacoes">
-				<div class="bl-conteudo">
-					<div class="detalhes">
-						<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
-						<a onclick="recordOutboundLink(this, 'Inscricoes', 'Footer'); return false;" class="bt-inscrever" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
-					</div>
+				<div class="detalhes">
+					<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
+					<a onclick="recordOutboundLink(this, 'Inscricoes', 'Footer'); return false;" class="bt-inscrever" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
 				</div>
 			</div>		
 		</div>

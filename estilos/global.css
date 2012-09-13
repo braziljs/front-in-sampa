@@ -225,6 +225,10 @@ footer address .creditos {
 	position: relative;
 }
 
+.bl-informacoes {
+    position: relative;
+}
+
 .bl-informacoes .detalhes {			
 	position: absolute;
 	right: 0;
@@ -253,10 +257,6 @@ footer address .creditos {
 section {
 	position: relative;
 	background-color: #fff;
-}
-
-.bl-conteudo {
-	position: relative;
 }
 
 section.secundario {
