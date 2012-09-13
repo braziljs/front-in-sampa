@@ -90,9 +90,11 @@
 	</header>
 	
 	<div class="bl-informacoes">
-		<div class="detalhes">
-			<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
-			<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
+		<div class="bl-conteudo">
+			<div class="detalhes">
+				<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
+				<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" target="_blank">Inscreva-sejá e ganhe uma camiseta</a></p>
+			</div>
 		</div>
 	</div>
 	
