@@ -45,7 +45,14 @@ h3 {
 	font-weight: bold;
 }
 
-.secundario h1 {
+h4 {
+	font-size: 1.4em;
+	color: #666;
+	font-weight: bold;
+}
+
+
+.secundario h2 {
 	color: #fff;
 }
 
@@ -171,24 +178,22 @@ header .bl-logo {
 	width: 236px;
 	height: 250px;
 	z-index: 10;
-}
-
-header .bl-logo a {
 	display: block;
 }
 
-header .menu {
+
+header nav{
 	padding-top: 15px;
 	position: relative;
 	left: -3px;
 }
 
-header .menu:after {
-	position: absolute;
-	content: url("img/bg-menu-header.png");
-	bottom: -172px;
-	display: block;
-}
+header nav::after {
+position: absolute;
+content: url("img/bg-menu-header.png");
+bottom: -172px;
+display: block;
+} 
 
 header .menu li {
 	font-size: 2.8em;
@@ -196,6 +201,8 @@ header .menu li {
 	text-transform: uppercase;
 	font-weight: bold;
 }
+
+
 
 footer {
 	margin-top: 60px;
@@ -271,22 +278,27 @@ footer address .creditos {
 	background-color: #000;
 }
 
-#conteudo section h1 {
+#conteudo section h2 {
 	cursor: pointer;
 	padding: 30px 0 0;
 }
 
-#conteudo section#evento h1 {
+#conteudo section#evento h2 {
 	background: url("img/tit-eventos.png") no-repeat scroll 0 0 transparent;
 	height: 40px;
 	width: 275px;
 	padding: 50px 0 0 10px;
 	position: relative;
 	left: -14px;
+	font-size: 3em;
 }
 
-#conteudo section#evento h2.tt-endereco {
+#conteudo section#evento h3.tt-endereco {
 	margin-top: 50px;
+	font-size: 1.6em;
+	color: #D00;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 #conteudo section#evento .detalhes {
@@ -300,11 +312,12 @@ footer address .creditos {
 	margin-top: 20px;
 }
 
+
 #conteudo section#evento .bl-mapa iframe {
 	margin-top: 10px;
 }
 
-#conteudo section#programacao h1 {
+#conteudo section#programacao h2.titPr {
 	position: absolute;
 	right: 0;
 	left: auto;
@@ -312,18 +325,33 @@ footer address .creditos {
 	background: url("img/tit-programacao.png") no-repeat scroll 0 0 transparent;
 	width: 275px;
 	padding-top: 40px;
-}
 
-#conteudo section#programacao ul {
-	padding-top: 30px;
+	font-size: 3em;
+	color: #d00;
+	text-transform: uppercase;
+	font-weight: bold;
 }
-
+.pogtop {
+	padding-top: 15px;
+}
+#conteudo section#programacao ul li ul {
+	padding-top: 15px;
+}
 #conteudo section#programacao li {
 	display: inline-block;
 	margin-right: 17px;
 	font-size: 1em;
-	min-width: 150px;
+	min-width: 300px;
 }
+
+#conteudo section#programacao li h3{ 
+	font-size: 1.6em;
+	color: #d00;
+	text-transform: uppercase;
+	font-weight: bold;	
+}
+
+
 
 #conteudo section#palestrantes {
 	background: url("img/bg-palestrantes.jpg") center top no-repeat transparent;
@@ -333,10 +361,15 @@ footer address .creditos {
 	padding-bottom: 30px;
 }
 
-#conteudo section#palestrantes h1 {
+#conteudo section#palestrantes h2.titPl {
 	background: url("img/tit-palestrantes.png") no-repeat scroll 0 0 transparent;
 	height: 40px;
 	width: 275px;
+
+	font-size: 3em;
+
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 #conteudo section#palestrantes ul {
@@ -354,7 +387,7 @@ footer address .creditos {
 	margin-left: 80px;
 }
 
-#conteudo section#palestrantes li h2 {
+#conteudo section#palestrantes li h3 {
 	display: inline-block;
 	background-color: #fff;
 	color: #000;
@@ -364,9 +397,10 @@ footer address .creditos {
 	left: -90px;
 	z-index: 2;
 	font-size: 1.8em;
+	text-transform: uppercase;
 }
 
-#conteudo section#palestrantes li h3 {
+#conteudo section#palestrantes li h4 {
 	margin-top: 10px;
 	font-size: 1.4em;
 	color: #fff;
@@ -384,11 +418,20 @@ footer address .creditos {
 	height: 400px;
 }
 
-#conteudo section#patrocinadores h1 {
+#conteudo section#patrocinadores h2 {
 	background: url("img/tit-patrocinadores.png") no-repeat scroll 0 0 transparent;
 	width: 305px;
 	padding: 30px 0 0;
+	font-size: 3em;
 }
+#conteudo section#patrocinadores h3 {
+	font-size: 1.6em;
+	color: #D00;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+
 
 #conteudo section#patrocinadores .bl-patrocinador {
 	position: absolute;
@@ -448,9 +491,13 @@ footer address .creditos {
 	margin-top: 30px;
 }
 
-#conteudo section#apoiadores h1 {
+#conteudo section#apoiadores h2 {
 	background: url("img/tit-apoiadores.png") no-repeat scroll 0 0 transparent;
 	width: 215px;
+	font-size: 3em;
+	color: #D00;
+	text-transform: uppercase;
+	font-weight: bold;
 }
 
 #conteudo section#apoiadores ul {
@@ -477,13 +524,34 @@ footer address .creditos {
 	color: #666; 
 }
 
+
+#conteudo section#contato h2 {
+	background: url("img/tit-apoiadores.png") no-repeat scroll 0 0 transparent;
+	width: 215px;
+	font-size: 3em;
+	color: #D00;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+#conteudo section#comentarios h2 {
+	background: url("img/tit-patrocinadores.png") no-repeat scroll 0 0 transparent;
+	width: 305px;
+	padding: 30px 0 0;
+	font-size: 3em;
+	color: #D00;
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
 #conteudo section#contato .bl-campos {
 	margin-top: 30px;
 	width: 447px;	
 }
 
-#conteudo section#contato h1, section#comentarios h1 {
+#conteudo section#contato h2, section#comentarios h2 {
 	margin-bottom: 30px;
+
 }
 
 #conteudo section#contato h3 {
