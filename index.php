@@ -145,16 +145,6 @@
 					</ul>
 					<ul class="pogtop">
 						<li>
-							<h2>Horário Soares e Clécio Bachini</h2>
-							<p>Horário a definir</p>
-						</li>
-						<li>
-							<h2>Palestra</h2>
-							<p>Acessibilidade na Web</p>
-						</li>						
-					</ul>
-					<ul class="pogtop">
-						<li>
 							<h3>Zeno Rocha e Bernard de Luna</h3>
 							<p>16h45 - 18h</p>
 						</li>
