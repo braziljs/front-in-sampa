@@ -315,6 +315,7 @@ footer address .creditos {
 
 #conteudo section#evento .bl-mapa iframe {
 	margin-top: 10px;
+	border: none;
 }
 
 #conteudo section#programacao h2.titPr {

@@ -100,7 +100,7 @@
 					<div class="bl-mapa">						
 						<h4>Veja no mapa:</h4>
 						<figure>	
-							<iframe width="910" height="230" frameborder="0" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Hotel+Intercontinental+Alameda+Santos,+1123&amp;aq=&amp;sll=-22.546052,-48.635514&amp;sspn=5.214009,10.371094&amp;ie=UTF8&amp;hq=Hotel+Intercontinental+Alameda+Santos,+1123&amp;hnear=&amp;radius=15000&amp;t=m&amp;ll=-23.565679,-46.653571&amp;spn=0.009047,0.03901&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
+							<iframe width="910" height="230" src="https://maps.google.com.br/maps?f=q&amp;source=s_q&amp;hl=pt-BR&amp;geocode=&amp;q=Hotel+Intercontinental+Alameda+Santos,+1123&amp;aq=&amp;sll=-22.546052,-48.635514&amp;sspn=5.214009,10.371094&amp;ie=UTF8&amp;hq=Hotel+Intercontinental+Alameda+Santos,+1123&amp;hnear=&amp;radius=15000&amp;t=m&amp;ll=-23.565679,-46.653571&amp;spn=0.009047,0.03901&amp;z=15&amp;iwloc=A&amp;output=embed"></iframe>
 						</figure>
 					</div>
 				</div>
@@ -129,7 +129,7 @@
 						</li>
 						<li>
 							<h3>Palestra</h3>
-							<p>O que você precisa saber sobre Acessibilidade Web</p>
+							<p>Aguardando tema</p>
 						</li>
 					</ul>
 
@@ -143,7 +143,6 @@
 							<p>SEO para Front-End</p>
 						</li>						
 					</ul>
-					
 					<ul class="pogtop">
 						<li>
 							<h3>Zeno Rocha e Bernard de Luna</h3>
@@ -185,6 +184,24 @@
 							<img class="foto" src="images/fabio-ricotta.png" alt="Foto do Palestrante Fábio Ricotta" />
 							<h4><a href="http://twitter.com/fabioricotta" rel="external"><span class="twitter">@fabioricotta</span></a></h4>
 							<p class="sobre">Fábio Ricotta é o co-fundador do site e empresa <a href="http://www.mestreseo.com.br/" title="Mestre SEO" rel="external">Mestre SEO</a>, nascido em 18/04/1985, é Bacharel em Ciência da Computação pela Universidade Federal de Itajubá. Hoje, a <a href="http://www.mestreseo.com.br/" title="Mestre SEO" rel="external"> MestreSEO</a> é uma referência nacional no assunto.</p>
+						</li>
+						<li class="palestrante">
+							<h3>Horácio Soares</h3>
+							<img class="foto" src="images/horacio.png" alt="Foto do Palestrante Horácio Soares" />
+							<h4><a href="http://twitter.com/horaciosoares" rel="external"><span class="twitter">@horaciosoares</span></a></h4>
+							<p class="sobre">
+								Fundador da <a href="http://acessodigital.net" title="Visitar Acesso Digital" rel="external">Acesso Digital</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>, é especialista em acessibilidade, experiência do usuário e usabilidade. Editor de artigos, faz parte do Conselho Consultivo do Instituto Intranet Portal e do GT de Acessibilidade na Web do W3C Brasil.
+							</p>
+						</li>
+						<li class="palestrante">
+							<h3>Clécio Bachini</h3>
+							<img class="foto" src="images/clecio.png" alt="Foto do Palestrante Clécio Bachini" />
+							<h4><a href="http://twitter.com/cbachini" rel="external"><span class="twitter">@cbachini</span></a></h4>
+							<p class="sobre">
+								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.
+Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
+Membro do GT de Acessibilidade do W3C Escritório Brasil.
+							</p>
 						</li>
 						<li class="palestrante">
 							<h3>Compartilhe seu conhecimento no FrontinSampa</h3>
