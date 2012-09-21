@@ -191,6 +191,7 @@
 							<h4><a href="http://twitter.com/horaciosoares" rel="external"><span class="twitter">@horaciosoares</span></a></h4>
 							<p class="sobre">
 								Fundador da <a href="http://acessodigital.net" title="Visitar Acesso Digital" rel="external">Acesso Digital</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>, é especialista em acessibilidade, experiência do usuário e usabilidade. Editor de artigos, faz parte do Conselho Consultivo do Instituto Intranet Portal e do GT de Acessibilidade na Web do W3C Brasil.
+							
 							</p>
 						</li>
 						<li class="palestrante">
@@ -198,8 +199,7 @@
 							<img class="foto" src="images/clecio.png" alt="Foto do Palestrante Clécio Bachini" />
 							<h4><a href="http://twitter.com/cbachini" rel="external"><span class="twitter">@cbachini</span></a></h4>
 							<p class="sobre">
-								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.
-Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
+								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
 Membro do GT de Acessibilidade do W3C Escritório Brasil.
 							</p>
 						</li>
