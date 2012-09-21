@@ -143,7 +143,16 @@
 							<p>SEO para Front-End</p>
 						</li>						
 					</ul>
-					
+					<ul class="pogtop">
+						<li>
+							<h2>Horário Soares e Clécio Bachini</h2>
+							<p>Horário a definir</p>
+						</li>
+						<li>
+							<h2>Palestra</h2>
+							<p>Acessibilidade na Web</p>
+						</li>						
+					</ul>
 					<ul class="pogtop">
 						<li>
 							<h3>Zeno Rocha e Bernard de Luna</h3>
@@ -185,6 +194,24 @@
 							<img class="foto" src="images/fabio-ricotta.png" alt="Foto do Palestrante Fábio Ricotta" />
 							<h4><a href="http://twitter.com/fabioricotta" rel="external"><span class="twitter">@fabioricotta</span></a></h4>
 							<p class="sobre">Fábio Ricotta é o co-fundador do site e empresa <a href="http://www.mestreseo.com.br/" title="Mestre SEO" rel="external">Mestre SEO</a>, nascido em 18/04/1985, é Bacharel em Ciência da Computação pela Universidade Federal de Itajubá. Hoje, a <a href="http://www.mestreseo.com.br/" title="Mestre SEO" rel="external"> MestreSEO</a> é uma referência nacional no assunto.</p>
+						</li>
+						<li class="palestrante">
+							<h3>Horácio Soares</h3>
+							<img class="foto" src="images/horacio.png" alt="Foto do Palestrante Horácio Soares" />
+							<h4><a href="http://twitter.com/horaciosoares" target="_blank"><span class="twitter">@horaciosoares</span></a></h4>
+							<p class="sobre">
+								Fundador da <a href="http://acessodigital.net" title="Visitar Acesso Digital" target="_blank">Acesso Digital</a> e consultor na Internativa <a href="http://internativa.com.br" title="Visitar Interativa" target="_blank">Internativa</a>, é especialista em acessibilidade, experiência do usuário e usabilidade. Editor de artigos, faz parte do Conselho Consultivo do Instituto Intranet Portal e do GT de Acessibilidade na Web do W3C Brasil.
+							</p>
+						</li>
+						<li class="palestrante">
+							<h3>Clécio Bachini</h3>
+							<img class="foto" src="images/clecio.png" alt="Foto do Palestrante Clécio Bachini" />
+							<h4><a href="http://twitter.com/cbachini" target="_blank"><span class="twitter">@cbachini</span></a></h4>
+							<p class="sobre">
+								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" target="_blank">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" target="_blank">Internativa</a>.
+Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
+Membro do GT de Acessibilidade do W3C Escritório Brasil.
+							</p>
 						</li>
 						<li class="palestrante">
 							<h3>Compartilhe seu conhecimento no FrontinSampa</h3>
