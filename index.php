@@ -191,7 +191,6 @@
 							<h4><a href="http://twitter.com/horaciosoares" rel="external"><span class="twitter">@horaciosoares</span></a></h4>
 							<p class="sobre">
 								Fundador da <a href="http://acessodigital.net" title="Visitar Acesso Digital" rel="external">Acesso Digital</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>, é especialista em acessibilidade, experiência do usuário e usabilidade. Editor de artigos, faz parte do Conselho Consultivo do Instituto Intranet Portal e do GT de Acessibilidade na Web do W3C Brasil.
-							
 							</p>
 						</li>
 						<li class="palestrante">
@@ -199,14 +198,15 @@
 							<img class="foto" src="images/clecio.png" alt="Foto do Palestrante Clécio Bachini" />
 							<h4><a href="http://twitter.com/cbachini" rel="external"><span class="twitter">@cbachini</span></a></h4>
 							<p class="sobre">
-								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
+								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.
+Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
 Membro do GT de Acessibilidade do W3C Escritório Brasil.
 							</p>
 						</li>
 						<li class="palestrante">
-							<h3>Compartilhe seu conhecimento no FrontinSampa</h3>
-							<a onclick="recordOutboundLink(this, 'Call4papers', 'Site'); return false;" href="http://minim.in/2fY" rel="external"><img class="foto" src="images/call-4-papers.png" alt="Call for Papers" /></a>
-							<p class="sobre">Quer compartilhar seu conhecimento dando uma palestra no FrontinSampa? <a href="http://minim.in/2fY" rel="external">Envie o tema</a> que gostaria de falar e quem sabe voce pode se tornar um dos palestrantes.</p>
+							<h3>Foram 42 propostas recebidas... Muito Obrigado!</h3>
+							<img class="foto" src="images/call-4-papers.png" alt="Call for Papers" />
+							<p class="sobre">Estamos entrando em contato com TODOS que enviaram, escolhidos ou não. Escolhemos alguns palestrantes, mas vamos precisar da ajuda de vocês para fechar toda a programação... (aguarde).</p>
 						</li>
 					</ul>
 				</div>
