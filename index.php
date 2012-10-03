@@ -117,11 +117,20 @@
 					</ul>
 					<ul class="pogtop">
 						<li>
-							<h3>Grade para ser definida</h3>
-							<p>9h - 16h45</p>
+							<h3>+ 4 Palestrantes sendo definidos por Call4 Papers</h3>
+							<p>Horário a definir</p>
 						</li>
 					</ul>
-
+					<ul class="pogtop">
+						<li>
+							<h3>Sérgio Lopes</h3>
+							<p>Horário a definir</p>
+						</li>
+						<li>
+							<h3>Palestra</h3>
+							<p>Uma tonelada de truques de Web Mobile</p>
+						</li>
+					</ul>
 					<ul class="pogtop">
 						<li>
 							<h3>Horácio Soares e Clécio Bachini</h3>
@@ -201,6 +210,14 @@
 								Fundador da <a href="http://www.soyuz.com.br/" title="Visitar Soyuz Sistemas" rel="external">Soyuz Sistemas</a> e consultor na <a href="http://internativa.com.br" title="Visitar Interativa" rel="external">Internativa</a>.
 Desenvolvedor web desde 1997, palestrante e professor. Militante e divulgador do HTML5 e Open Web Platform.
 Membro do GT de Acessibilidade do W3C Escritório Brasil.
+							</p>
+						</li>
+						<li class="palestrante">
+							<h3>Sérgio Lopes</h3>
+							<img class="foto" src="images/sergio-lopes.png" alt="Foto do Palestrante Sérgio Lopes" />
+							<h4><a href="http://twitter.com/sergio_caelum" rel="external"><span class="twitter">@sergio_caelum</span></a></h4>
+							<p class="sobre">
+								Desenvolvedor desde 2002 e coordenador da unidade São Paulo da Caelum. é apaixonado por design responsivo. Possui diversas certificações Java (como a SCJP e a SCEA5), é moderador do GUJ e ativo participante da comunidade através de palestras, cursos e artigos. Trabalha com Java para Web e dispositivos móveis, e mantém um <a href="http://sergiolopes.org/" title="Blog do Sérgio Lopes com Artigos sobre Web" target="_blank"> blog com artigos sobre web</a>.
 							</p>
 						</li>
 						<li class="palestrante">
