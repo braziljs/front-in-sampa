@@ -86,7 +86,7 @@
 				<div class="bl-conteudo">
 					<div class="detalhes">
 						<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
-						<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" rel="external">Inscreva-sejá e ganhe uma camiseta</a></p>
+						<a class="bt-inscrever" onclick="recordOutboundLink(this, 'Inscricoes', 'Header'); return false;" href="http://eventick.com.br/frontinsampa" rel="external">Inscreva-se já</a></p>
 					</div>
 				</div>
 			</div>
@@ -117,8 +117,28 @@
 					</ul>
 					<ul class="pogtop">
 						<li>
-							<h3>+ 4 Palestrantes sendo definidos por Call4 Papers</h3>
+							<h3>+ 1 Palestrante a ser definido por enquete pública</h3>
 							<p>Horário a definir</p>
+						</li>
+					</ul>
+					<ul class="pogtop">
+						<li>
+							<h3>Mauricio Wolff</h3>
+							<p>Horário a definir</p>
+						</li>
+						<li>
+							<h3>Palestra</h3>
+							<p>Como manter um Front-End produtivo e eficiente em testes AB e Personalização</p>
+						</li>
+					</ul>
+					<ul class="pogtop">
+						<li>
+							<h3>Kaique da Silva</h3>
+							<p>Horário a definir</p>
+						</li>
+						<li>
+							<h3>Palestra</h3>
+							<p>WebGL, Three.js e tQuery (tecnologia implementada pelos browsers)</p>
 						</li>
 					</ul>
 					<ul class="pogtop">
@@ -221,9 +241,26 @@ Membro do GT de Acessibilidade do W3C Escritório Brasil.
 							</p>
 						</li>
 						<li class="palestrante">
-							<h3>Foram 42 propostas recebidas... Muito Obrigado!</h3>
-							<img class="foto" src="images/call-4-papers.png" alt="Call for Papers" />
-							<p class="sobre">Estamos entrando em contato com TODOS que enviaram, escolhidos ou não. Escolhemos alguns palestrantes, mas vamos precisar da ajuda de vocês para fechar toda a programação... (aguarde).</p>
+							<h3>Kaique da Silva</h3>
+							<img class="foto" src="images/kaique.png" alt="Foto do Palestrante Kaique da Silva" />
+							<h4><a href="http://twitter.com/japaloc" rel="external"><span class="twitter">@japaloc</span></a></h4>
+							<p class="sobre">
+								Atuo na área de desenvolvimento para web desde os meus 11 anos de
+idade, curioso em busca de um novo mundo, a programação foi o meu
+refúgio para explorar a minha mente em busca de concretizar os meu
+pensamentos e ideias. Quando evolui e pude ver que conseguia passar
+isso para os meus projetos, não quis mais parar. Tenho paixão, por criar,
+mudar e inovar sempre e hoje meu foco é em desenvolvimento Open
+Source.
+							</p>
+						</li>
+						<li class="palestrante">
+							<h3>Mauricio Wolff</h3>
+							<img class="foto" src="images/mauricio.png" alt="Foto do Palestrante Mauricio Wolff" />
+							<h4><a href="http://twitter.com/bitbonsai" rel="external"><span class="twitter">@bitbonsai</span></a></h4>
+							<p class="sobre">
+								Iniciou como Graphic Designer, passou por Interface Design, BackEnd, DB Design, Information Architecture e finalmente FrontEnd, desenvolvendo JS Frameworks e jQuery plugins. Começou a trabalhar com internet em 96, e hoje lidera um time de FrontEnd Devs em 4 países como Global WebDev Lead do time de T&T no <a href="http://www.dell.com/" title="Dell.com" target="_blank">dell.com</a>.
+							</p>
 						</li>
 					</ul>
 				</div>
@@ -300,7 +337,7 @@ Membro do GT de Acessibilidade do W3C Escritório Brasil.
 						<div class="bl-conteudo">
 							<div class="detalhes">
 								<p><strong class="data-evento">3 de Novembro de 2012</strong> <br />
-								<a onclick="recordOutboundLink(this, 'Inscricoes', 'Footer'); return false;" class="bt-inscrever" href="http://eventick.com.br/frontinsampa" rel="external">Inscreva-sejá e ganhe uma camiseta</a></p>
+								<a onclick="recordOutboundLink(this, 'Inscricoes', 'Footer'); return false;" class="bt-inscrever" href="http://eventick.com.br/frontinsampa" rel="external">Inscreva-se já</a></p>
 							</div>
 						</div>
 					</div>		

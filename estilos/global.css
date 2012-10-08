@@ -250,9 +250,8 @@ footer address .creditos {
 	font-weight: bold;
 }
 .pogtop {
-	padding: 10px;
+	padding-top: 15px;
 }
-.pogtop:nth-child(odd) {background: #ede9e9;}
 #conteudo section#programacao ul li ul {
 	padding-top: 15px;
 }
