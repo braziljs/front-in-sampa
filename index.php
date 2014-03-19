@@ -16,26 +16,7 @@
 	<meta property="fb:admins" content="100000470381955" />
 	<meta property="fb:app_id" content="245886085523128"/>
 	<title>FrontInSampa | Dia 03 de novembro 2012</title>
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
 	<script type="text/javascript" src="http://modernizr.com/downloads/modernizr-latest.js"></script>
-	
-	<script>
-		$(document).ready(function(){
-			$("a[rel=external]").attr('target', '_blank'); 	
-			$(".menu a").click(function(e) {
-				e.preventDefault();
-				var ancora = $(this).attr('href');
-				$('html, body').animate({
-					scrollTop: $(ancora).offset().top
-				}, 700);
-			});
-			$('section h1').click(function(){
-				$('html, body').animate({
-					scrollTop: $('body').offset().top
-				}, 700);
-			})
-		});
-	</script>
 	<link rel="stylesheet" href="estilos/global.css" />
 	<link rel="shortcut icon" href="images/favicon.ico" type="image/ico" />
 
@@ -389,5 +370,25 @@ Source.
 			</div>
 		</footer>
 	</div>
+	
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8/jquery.min.js"></script>
+	
+		<script>
+		$(document).ready(function(){
+			$("a[rel=external]").attr('target', '_blank'); 	
+			$(".menu a").click(function(e) {
+				e.preventDefault();
+				var ancora = $(this).attr('href');
+				$('html, body').animate({
+					scrollTop: $(ancora).offset().top
+				}, 700);
+			});
+			$('section h1').click(function(){
+				$('html, body').animate({
+					scrollTop: $('body').offset().top
+				}, 700);
+			})
+		});
+	</script>
 </body>
 </html>
